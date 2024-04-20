@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - bottom
+  - brick
+  - ball
+  - expander
+  - +2
+  - shortener
+  - extralife
+  - multiplier
+  - unbreakable
   layers:
   - Default
   - TransparentFX
